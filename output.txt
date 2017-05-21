@@ -1,0 +1,41 @@
+single line comment found: --header start
+Library found MyHeader1.
+Library found MyHeader2.
+single line comment found: --header end
+single line comment found: --main function
+Function found
+Function found
+Function found
+Function found
+Function found
+
+
+--------------------------------------------------------
+
+Keywords: 7
+number
+method
+loop
+print
+if
+elif
+else
+
+Variables: 5
+x
+y
+z
+i
+sum
+
+Operators: 5
+assign
+<=
++
+==
+!=
+
+Punctuations: 3
+`
+:
+;

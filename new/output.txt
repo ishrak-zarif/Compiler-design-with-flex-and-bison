@@ -1,0 +1,14 @@
+-7.000000
+49.000000
+1.000000
+value of expression in IF: 3.000000
+value of expression in ELSE: 17.000000
+200.000000
+value of expression in loop: 3.000000
+value of expression in loop: 3.000000
+value of expression in loop: 3.000000
+value of expression in loop: 3.000000
+value of expression in loop: 3.000000
+120.000000
+5.000000
+10.000000

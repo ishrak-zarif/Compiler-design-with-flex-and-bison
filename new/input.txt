@@ -1,0 +1,49 @@
+~MyHeader1
+~MyHeader2
+
+main method()
+{
+
+--single line comment
+$*
+multi line comment
+*$
+
+var a, b, c, d, e, f, g, i`
+c assign sin(90)`
+a assign -2 - 5`
+print(a)`
+b assign a ^ 2`
+print(b)`
+print(c)`
+
+if:2 > 1:
+1 + 2`
+
+if:5 < 2:
+5 - 2`
+else
+1 + ( 2 ^ 3 ) * 2`
+		
+switch(2):
+case(1): 100`
+case(2): 200`
+case(3): 300`
+default: 500`
+
+d assign log(1000)`
+loop(1 : i : 5)
+( 
+print(d)`
+)
+
+e assign fact(5)`
+print(e)`
+
+f assign gcd(5, 10)`
+print(f)`
+
+g assign lcm(5, 10)`
+print(g)`
+		
+}
